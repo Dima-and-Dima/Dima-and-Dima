@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dima-and-Dima
 - 👀 I’m interested in develop)
 - 🌱 I’m currently learning C++, HTML, SQL, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any embedded / software development 
 - 📫 How to reach me ...
 
 <!---
